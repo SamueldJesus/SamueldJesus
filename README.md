@@ -1,6 +1,6 @@
 # 👋 Olá! Me chamo Samuel
 
-🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, automação e soluções criativas.  
+🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, Android e soluções criativas.  
 🚀 Em transição de carreira, atualmente estou aprendendo e colocando em prática conhecimentos em **Java**, **Git/GitHub**, e **desenvolvimento web**.
 
 ---

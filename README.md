@@ -121,17 +121,3 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
   />
 
 </p>
-<br /><br />
-
----
-
-## 📫 Contato
-
-- ✉️ Email: [samuehhh@live.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/samuejesus](https://www.linkedin.com/in/samuejesus)
-
----
-
-## 💬 Sobre mim
-
-Sou curioso, autodidata e acredito que tecnologia é uma ferramenta poderosa para transformar realidades. Estou construindo meu conhecimento com dedicação e sempre aberto a aprender com a comunidade. 😊

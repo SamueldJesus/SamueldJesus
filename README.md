@@ -82,9 +82,6 @@
 />
 <br /><br />
 
-
-
-
 ---
 
 ## 📚 O que estou estudando agora
@@ -123,7 +120,7 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
   />
 
 </p>
-
+<br /><br />
 
 ---
 

@@ -34,14 +34,14 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
 
 ## 📚 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamueldJesus&layout=compact&theme=github_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SamueldJesus=anuraghazra&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contato
 
 - ✉️ Email: [samuehhh@live.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/samuejesus)
+- 💼 LinkedIn: [https://www.linkedin.com/in/samuejesus](https://www.linkedin.com/in/samuejesus)
 
 ---
 

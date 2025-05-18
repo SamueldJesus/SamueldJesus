@@ -58,6 +58,22 @@
 />
 <img 
     align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VSCode" 
+    title="Visual Studio Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Linux" 
     title="Linux"
     width="30px" 
@@ -65,6 +81,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <br /><br />
+
 
 
 

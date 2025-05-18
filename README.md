@@ -108,7 +108,7 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="160"
+    height="145"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=samueldjesus&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />

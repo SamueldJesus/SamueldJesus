@@ -116,7 +116,7 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="120"
+      height="140"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldjesus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 

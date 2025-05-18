@@ -34,7 +34,7 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
 
 ## 📚 Linguagens mais usadas
 
-[![Samuel WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueldjesus)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel stats](https://github-readme-stats.vercel.app/api/wakatime?username=samueldjesus)](https://github.com/samueldjesus/github-readme-stats)
 
 ---
 

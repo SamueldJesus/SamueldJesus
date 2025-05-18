@@ -34,7 +34,7 @@ Em breve estarei publicando meus primeiros projetos, com foco em:
 
 ## 📚 Linguagens mais usadas
 
-![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=asamueldjesus&show_icons=true&theme=radical)
+![Samuel GitHub stats](https://github-readme-stats.vercel.app/api?username=samueldjesus&show_icons=true&theme=radical)
 
 ---
 

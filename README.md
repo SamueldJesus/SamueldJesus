@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Samuel
 
-🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Node.js e soluções criativas.  
-🚀 Em transição de carreira, atualmente estou aprendendo e praticando **JavaScript**, **TypeScript**, e desenvolvimento backend com **Node.js**.
+🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Java e soluções mobile com Kotlin.  
+🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Java**, **Kotlin**, e desenvolvimento backend com **Spring Boot**.
 
 ---
 
@@ -10,43 +10,43 @@
 <!-- Tecnologias que uso/estudo -->
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 <img 
     align="left" 
-    alt="Node.js" 
-    title="Node.js"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="Express" 
-    title="Express.js"
+    alt="Android" 
+    title="Android"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
 />
 <img 
     align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
+    alt="SQL" 
+    title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -66,11 +66,11 @@
 />
 <img 
     align="left" 
-    alt="VSCode" 
-    title="Visual Studio Code"
+    alt="Android Studio" 
+    title="Android Studio"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
 />
 <img 
     align="left" 
@@ -87,10 +87,11 @@
 
 ## 📚 O que estou estudando agora
 
-- Fundamentos de JavaScript e TypeScript
-- Node.js e Express no backend
-- MongoDB e integração com banco de dados
-- Controle de versão com Git e GitHub
+- Fundamentos de **Java** e **Kotlin**
+- Desenvolvimento backend com **Spring Boot**
+- Banco de dados com **SQL** e integração com Java
+- Desenvolvimento mobile com **Kotlin** no **Android Studio**
+- Controle de versão com **Git** e **GitHub**
 - Boas práticas com arquitetura e organização de código
 
 ---
@@ -98,10 +99,11 @@
 ## 🛠 Projetos em andamento
 
 Em breve estarei publicando meus primeiros projetos com foco em:
-- APIs REST simples com Node.js e Express
-- Integração com MongoDB
-- Aplicações backend com autenticação e CRUD
-- Princípios de Clean Code e SOLID
+- **APIs REST** simples com **Java** e **Spring Boot**
+- Aplicativos mobile básicos com **Kotlin** e **Android Studio**
+- Integração com bancos de dados **SQL**
+- Aplicações backend com autenticação e **CRUD**
+- Princípios de **Clean Code** e **SOLID**
 
 ---
 

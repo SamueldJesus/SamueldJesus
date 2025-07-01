@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Samuel
 
-🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Java e soluções mobile com Kotlin.  
-🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Java**, **Kotlin**, e desenvolvimento backend com **Spring Boot**.
+🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Python e exploração de **Inteligência Artificial**.  
+🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Python**, **Flask**, **Django** e conceitos de **IA**.
 
 ---
 
@@ -10,35 +10,35 @@
 <!-- Tecnologias que uso/estudo -->
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
+    alt="Flask" 
+    title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 />
 <img 
     align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot"
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
 />
 <img 
     align="left" 
-    alt="Android" 
-    title="Android"
+    alt="TensorFlow" 
+    title="TensorFlow"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
 <img 
     align="left" 
@@ -66,11 +66,11 @@
 />
 <img 
     align="left" 
-    alt="Android Studio" 
-    title="Android Studio"
+    alt="VSCode" 
+    title="Visual Studio Code"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
 />
 <img 
     align="left" 
@@ -87,23 +87,23 @@
 
 ## 📚 O que estou estudando agora
 
-- Fundamentos de **Java** e **Kotlin**
-- Desenvolvimento backend com **Spring Boot**
-- Banco de dados com **SQL** e integração com Java
-- Desenvolvimento mobile com **Kotlin** no **Android Studio**
+- Fundamentos de **Python** e suas bibliotecas
+- Desenvolvimento backend com **Flask** e **Django**
+- Introdução a **Inteligência Artificial** com **TensorFlow**
+- Banco de dados com **SQL** e integração com Python
 - Controle de versão com **Git** e **GitHub**
-- Boas práticas com arquitetura e organização de código
+- Boas práticas em arquitetura de código e **IA**
 
 ---
 
 ## 🛠 Projetos em andamento
 
 Em breve estarei publicando meus primeiros projetos com foco em:
-- **APIs REST** simples com **Java** e **Spring Boot**
-- Aplicativos mobile básicos com **Kotlin** e **Android Studio**
+- **APIs REST** simples com **Flask** e **Django**
+- Modelos básicos de **Inteligência Artificial** com **TensorFlow**
 - Integração com bancos de dados **SQL**
 - Aplicações backend com autenticação e **CRUD**
-- Princípios de **Clean Code** e **SOLID**
+- Princípios de **Clean Code** aplicados a projetos de **IA**
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Samuel
 
-🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Java e exploração de **Inteligência Artificial**.  
-🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Java**, **Spring Boot**, **Hibernate** e conceitos de **IA**.
+🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Java.  
+🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Java**, **Spring Boot**, **Hibernate**.
 
 ---
 
@@ -31,14 +31,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="TensorFlow" 
-    title="TensorFlow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" 
 />
 <img 
     align="left" 
@@ -89,10 +81,9 @@
 
 - Fundamentos de **Java** e suas bibliotecas
 - Desenvolvimento backend com **Spring Boot** e **Hibernate**
-- Introdução a **Inteligência Artificial** com **TensorFlow**
 - Banco de dados com **SQL** e integração com Java
 - Controle de versão com **Git** e **GitHub**
-- Boas práticas em arquitetura de código e **IA**
+- Boas práticas em arquitetura de código
 
 ---
 
@@ -100,10 +91,9 @@
 
 Em breve estarei publicando meus primeiros projetos com foco em:
 - **APIs REST** simples com **Spring Boot** e **Hibernate**
-- Modelos básicos de **Inteligência Artificial** com **TensorFlow**
 - Integração com bancos de dados **SQL**
 - Aplicações backend com autenticação e **CRUD**
-- Princípios de **Clean Code** aplicados a projetos de **IA**
+- Princípios de **Clean Code**
 
 ---
 

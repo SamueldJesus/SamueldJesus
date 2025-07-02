@@ -104,7 +104,7 @@ Em breve estarei publicando meus primeiros projetos com foco em:
 Salvador, Bahia, Brasil
 
 ## 📧 Contato
-- LinkedIn: [linkedin.com/in/samueldjesus](https://linkedin.com/in/samueldjesus)  
+- LinkedIn: [https://www.linkedin.com/in/samuejesus](https://www.linkedin.com/in/samuejesus/)  
 - E-mail: smcsnts@gmail.com  
 
 ---

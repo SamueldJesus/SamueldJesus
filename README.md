@@ -5,6 +5,9 @@
 
 ---
 
+## 🎯 Objetivo
+Busco estágio em TI para aplicar meus conhecimentos em Java e backend, contribuindo para projetos reais enquanto continuo aprendendo.
+
 ## 💻 Tecnologias e Ferramentas
 
 <!-- Tecnologias que uso/estudo -->
@@ -94,6 +97,15 @@ Em breve estarei publicando meus primeiros projetos com foco em:
 - Integração com bancos de dados **SQL**
 - Aplicações backend com autenticação e **CRUD**
 - Princípios de **Clean Code**
+
+---
+
+## 📍 Localização
+Salvador, Bahia, Brasil (disponível para remoto)
+
+## 📧 Contato
+- LinkedIn: [linkedin.com/in/samueldjesus](https://linkedin.com/in/samueldjesus)  
+- E-mail: samueldjesus@email.com  
 
 ---
 

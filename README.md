@@ -101,7 +101,7 @@ Em breve estarei publicando meus primeiros projetos com foco em:
 ---
 
 ## 📍 Localização
-Salvador, Bahia, Brasil (disponível para remoto)
+Salvador, Bahia, Brasil
 
 ## 📧 Contato
 - LinkedIn: [linkedin.com/in/samueldjesus](https://linkedin.com/in/samueldjesus)  

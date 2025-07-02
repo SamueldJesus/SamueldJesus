@@ -105,7 +105,7 @@ Salvador, Bahia, Brasil (disponível para remoto)
 
 ## 📧 Contato
 - LinkedIn: [linkedin.com/in/samueldjesus](https://linkedin.com/in/samueldjesus)  
-- E-mail: samueldjesus@email.com  
+- E-mail: smcsnts@gmail.com  
 
 ---
 

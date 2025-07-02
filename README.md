@@ -1,7 +1,7 @@
 # 👋 Olá! Me chamo Samuel
 
-🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Python e exploração de **Inteligência Artificial**.  
-🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Python**, **Flask**, **Django** e conceitos de **IA**.
+🎓 Estudante e iniciante na área de **Tecnologia**, com grande interesse em desenvolvimento de software, backend com Java e exploração de **Inteligência Artificial**.  
+🚀 Em transição de carreira, atualmente estou aprendendo e praticando **Java**, **Spring Boot**, **Hibernate** e conceitos de **IA**.
 
 ---
 
@@ -10,27 +10,27 @@
 <!-- Tecnologias que uso/estudo -->
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
-    alt="Flask" 
-    title="Flask"
+    alt="Spring Boot" 
+    title="Spring Boot"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="Hibernate" 
+    title="Hibernate"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain.svg" 
 />
 <img 
     align="left" 
@@ -87,10 +87,10 @@
 
 ## 📚 O que estou estudando agora
 
-- Fundamentos de **Python** e suas bibliotecas
-- Desenvolvimento backend com **Flask** e **Django**
+- Fundamentos de **Java** e suas bibliotecas
+- Desenvolvimento backend com **Spring Boot** e **Hibernate**
 - Introdução a **Inteligência Artificial** com **TensorFlow**
-- Banco de dados com **SQL** e integração com Python
+- Banco de dados com **SQL** e integração com Java
 - Controle de versão com **Git** e **GitHub**
 - Boas práticas em arquitetura de código e **IA**
 
@@ -99,7 +99,7 @@
 ## 🛠 Projetos em andamento
 
 Em breve estarei publicando meus primeiros projetos com foco em:
-- **APIs REST** simples com **Flask** e **Django**
+- **APIs REST** simples com **Spring Boot** e **Hibernate**
 - Modelos básicos de **Inteligência Artificial** com **TensorFlow**
 - Integração com bancos de dados **SQL**
 - Aplicações backend com autenticação e **CRUD**
